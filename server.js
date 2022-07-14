@@ -16,7 +16,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-const URI = process.env.MONGODB_URI || "mongodb://localhost/budget";
+const URI = process.env.MONGODB_URI || "mongodb://127.0.0.1/budget";
 
 mongoose.connect(URI, {
    //useCreatendex: true, 

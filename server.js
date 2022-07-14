@@ -19,7 +19,7 @@ app.use(express.static("public"));
 const URI = process.env.MONGODB_URI || "mongodb://127.0.0.1/budget";
 
 mongoose.connect(URI, {
-   //useCreatendex: true, 
+  
    //useFindAndModify: false, 
    useNewUrlParser: true, 
    useUnifiedTopology: true 

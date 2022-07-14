@@ -70,7 +70,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:computer: [Hugo Alvarado](https://github.com/Rober2092)
+:engineer: [Hugo Alvarado](https://github.com/Rober2092)
 
 ## Questions
 ✉️ Contact me with any questions: [email](rober2091@icloud.com) , [GitHub](https://github.com/Rober2092)<br />
